@@ -6,7 +6,7 @@
 
 ## Instalación
 
-Para instalar el paquete (cuando esté publicado en NPM):
+Para instalar el paquete:
 
 
 ```bash
