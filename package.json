@@ -1,0 +1,13 @@
+{
+  "name": "random-superpower",
+  "version": "1.0.0",
+  "description": "es un paquete divertido que te devuelve un superpoder aleatorio cada vez que lo ejecutas",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["superpower", "fun", "random", "joke"],
+  "author": "Maynor López <maynor94l39@gmail.com>",
+  "license": "MIT",
+  "type": "commonjs"
+}
