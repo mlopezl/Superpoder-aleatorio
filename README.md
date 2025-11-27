@@ -1,6 +1,6 @@
-# Random Superpower
+# Superpoder Aleatorio
 
-`random-superpower` es un paquete divertido que te devuelve un superpoder aleatorio cada vez que lo ejecutas. Perfecto para bromas, juegos, inspiración creativa o simplemente para pasar un buen rato.  
+`Superpoder-Aleatiorio` es un paquete divertido que te devuelve un superpoder aleatorio cada vez que lo ejecutas. Perfecto para bromas, juegos, inspiración creativa o simplemente para pasar un buen rato.  
 
 ---
 
@@ -14,6 +14,13 @@ npm install random-superpower
 ```
 ## Uso
 
+```bash
 const randomSuperpower = require("random-superpower"); 
 
 console.log(randomSuperpower());
+```
+## Posible respuesta
+
+```bash
+  "Saber exactamente cuándo la comida está lista con solo olerla",
+```

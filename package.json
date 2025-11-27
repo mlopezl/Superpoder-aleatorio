@@ -1,5 +1,5 @@
 {
-  "name": "random-superpower",
+  "name": "superpoder-aleatorio",
   "version": "1.0.0",
   "description": "es un paquete divertido que te devuelve un superpoder aleatorio cada vez que lo ejecutas",
   "main": "src/index.js",
