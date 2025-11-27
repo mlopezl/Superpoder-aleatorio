@@ -10,14 +10,14 @@ Para instalar el paquete (cuando esté publicado en NPM):
 
 
 ```bash
-npm install random-superpower
+npm install superpoder-aleatorio
 ```
 ## Uso
 
 ```bash
-const randomSuperpower = require("random-superpower"); 
+const superpoderAleatorio = require("superpoder-aleatorio"); 
 
-console.log(randomSuperpower());
+console.log(superpoder-aleatorio());
 ```
 ## Posible respuesta
 
